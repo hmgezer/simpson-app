@@ -1,0 +1,2 @@
+export const ADD_SIMPSON = 'ADD_SIMPSON';
+export const DELETE_SIMPSON = 'DELETE_SIMPSON';
